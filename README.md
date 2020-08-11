@@ -5,6 +5,6 @@ R1 is modeled based on Fusion360 screw profile, while R2 is modeled by "hand" wi
 R1 may need to be stretched in the X/Y directions, depending on your printer.
 
 
-![image](logo-template-1-clearwalker3-dust-collector-continue-2.jpg)
+![image](logo-template-intro-smalllogo-vise.jpg)
 
 As seen in this video: https://www.youtube.com/watch?v=HGflbBo4Eok
